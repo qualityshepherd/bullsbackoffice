@@ -27,7 +27,7 @@ const singlePostTemplate = post => `
 
 const notFoundTemplate = () => '<p>Post not found.</p>'
 
-export const aboutPageTemplate = () => `
+const aboutPageTemplate = () => `
   <h2>Bulls Back Office</h2>
   <div class="center">
     Tracksuit executives one couch away from a champion. No access. No sources. No filters.
@@ -39,6 +39,13 @@ export const aboutPageTemplate = () => `
     </div>
     <div class="center"><img src="assets/images/bbo_square_300.png"></div>
   </div>
+`
+
+const archiveTemplate = post => `
+  <p>
+    <a href="#post?s=${post.meta.slug}"><span class="archive">${post.meta.title}</span></a>
+    <span class="date">${post.meta.date}</span>
+  </p>
 `
 
 export const renderTags = (tags, hash = '#tag') =>
@@ -87,6 +94,10 @@ export function renderSinglePost (slug) {
 
 export function renderAboutPage () {
   elements.main.innerHTML = aboutPageTemplate()
+}
+
+export function renderArchive (posts) {
+  elements.main.innerHTML = posts.map(archiveTemplate).join('')
 }
 
 export function renderFilteredPosts () {
