@@ -89,7 +89,7 @@ nav {
   top: 0;
 }
 
-#hamburger {
+#menu {
   margin-left: 15px;
   margin-top: 15px;
   font-size: 250%;
@@ -167,10 +167,8 @@ footer {
   text-align: center;
 }
 
-.song {
-  text-align: center;
-  margin:auto;
-  width: 80%;
+.hidden {
+  display: none;
 }
 
 /* any child divs of .song */
@@ -217,15 +215,14 @@ footer {
   text-decoration: none;
 }
 
-#more-posts {
-  margin-bottom: 15px;
+#loadMore {
+  margin: 15px auto;
   font-size: 90%;
-  text-align: center;
   color: var(--bg-darker);
   background-color: var(--alt2);
   padding: 15px;
   border: none;
-  border-radius: 15px
+  border-radius: 15px;
 }
 
 .social img {
@@ -328,27 +325,6 @@ blockquote {
   overflow: auto;
   background-color: #cdcbc9;
   filter: brightness(89%)
-}
-
-.featherlight-content {
-  background: #cdcbc9;
-}
-
-.rune img {
-  border-radius: 15%;
-  float: right;
-  padding: 5px;
-  max-width: 150px;
-  overflow: auto;
-  filter: brightness(89%)
-}
-
-.border {
-  border: medium solid var(--border);
-  border-radius: 15px;
-  padding: 25px;
-  margin-bottom: 50px;
-  overflow: auto;
 }
 
 h1,
