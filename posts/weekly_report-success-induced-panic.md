@@ -16,7 +16,7 @@ Per directive from the Señor Director, I am to inform Bulls Nation of our curre
 
 **Giddey, Josh - Status: VINDICATION PENDING**
 
-The Señor Director has asked me to note that he "called this" approximately 42 times since his acquisition. Current performance metrics suggest Mr. Giddey is good at basketball. Formal _"I Told You So"_s will go out by the end of the week.
+The Señor Director has asked me to note that he "called this" approximately 42 times since his acquisition. Current performance metrics suggest Mr. Giddey is good at basketball. Formal _"I Told You So"s_ will go out by the end of the week.
 
 **White, Coby - Internal Crisis Alert**
 
