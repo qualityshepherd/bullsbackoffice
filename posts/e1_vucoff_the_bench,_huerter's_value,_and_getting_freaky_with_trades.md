@@ -10,6 +10,12 @@ tags: podcast
 
 The crew debates whether Vucevic will accept a bench role, what Huerter's actual trade value is during his shooting slump, and whether the Bulls should get freaky with risky trades for young talent and picks, or stick with smart, tradeable role players.
 
+- brine
+- Gilty
+- [bruums](https://www.threads.com/@bartonrmshaw)
+- CrankyDoggie - @RobQlder
+- Michael W. II (ZenMasterMike) 
+
 **Topics:**
 - Vooch's value/contract and coming off the bench
 - Huerter's shooting slump, comparing him to DiVincenzo, whether he's worth $12-13mm
