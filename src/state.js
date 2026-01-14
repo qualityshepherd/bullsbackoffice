@@ -1,11 +1,36 @@
 import config from './config.js'
 
-export const state = {
+const initialState = {
   posts: [],
-  displayedPosts: config.maxPosts, // Changed from postLimit to displayedPosts
+  displayedPosts: config.maxPosts,
   searchTerm: ''
 }
 
+// state container
+let currentState = { ...initialState }
+
+export const getState = () => ({ ...currentState })
+export const getPosts = () => [...currentState.posts]
+export const getDisplayedPosts = () => currentState.displayedPosts
+export const getSearchTerm = () => currentState.searchTerm
+
+export const updateState = (updates) => {
+  currentState = { ...currentState, ...updates }
+  return getState()
+}
+
+export const setPosts = (posts) => updateState({ posts: [...posts] })
+export const setDisplayedPosts = (count) => updateState({ displayedPosts: count })
+export const setSearchTerm = (term) => updateState({ searchTerm: term })
+export const incrementDisplayedPosts = (increment = config.maxPosts) =>
+  updateState({ displayedPosts: currentState.displayedPosts + increment })
+
+export const resetState = () => {
+  currentState = { ...initialState }
+  return getState()
+}
+
+// utility functions
 export async function readSiteIndex (pathToIndex) {
   try {
     const res = await fetch(pathToIndex)
@@ -44,7 +69,6 @@ export function sortBy (prop) {
         : 0
 }
 
-// fix Safari date parsing (replaces dashes with slashes).
 function parseDate (str) {
   return new Date(str.replace(/-/g, '/'))
 }
@@ -53,4 +77,17 @@ function validateResponse (res) {
   if (!res.ok) {
     throw new Error(`HTTP ${res.status} - ${res.statusText}`)
   }
+}
+
+const addLeadingZero = (num) => String(num).padStart(2, '0')
+
+// add leading 0 to date string...
+export function addLeadingZerosToDateString (dateString) {
+  const [year, month, day] = dateString.split('-')
+  // Pad the month and day with leading zeros if necessary
+  const paddedMonth = addLeadingZero(month)
+  const paddedDay = addLeadingZero(day)
+
+  // Reassemble the date string in the format "YYYY-MM-DD"
+  return `${year}-${paddedMonth}-${paddedDay}`
 }

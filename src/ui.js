@@ -1,4 +1,4 @@
-import { state } from './state.js'
+import { getPosts, getSearchTerm } from './state.js'
 import { elements } from './dom.js'
 import { postsTemplate, singlePostTemplate, notFoundTemplate, aboutPageTemplate, archiveTemplate } from './templates.js'
 

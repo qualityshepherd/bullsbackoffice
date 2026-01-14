@@ -1,4 +1,4 @@
-import { readSiteIndex, state } from './state.js'
+import { readSiteIndex, setPosts, getPosts, getDisplayedPosts } from './state.js'
 import { elements } from './dom.js'
 import { renderPosts } from './ui.js'
 import { handleLoadMore, handleRouting, handleSearch, toggleMenu } from './handlers.js'
@@ -13,6 +13,6 @@ window.addEventListener('DOMContentLoaded', handleRouting)
 // initial render
 ;(async () => {
   const index = await readSiteIndex(config.pathToIndex)
-  state.posts = index
-  renderPosts(state.posts, state.displayedPosts) // Changed from postLimit to displayedPosts
+  setPosts(index)
+  renderPosts(getPosts(), getDisplayedPosts())
 })()
