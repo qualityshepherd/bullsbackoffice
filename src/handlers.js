@@ -30,10 +30,6 @@ const routeHandlers = {
     setDisplayedPosts(config.maxPosts)
     const posts = getPosts()
     renderPosts(posts, getDisplayedPosts())
-    // Only show load-more if there are more posts to load
-    if (getDisplayedPosts() < posts.length) {
-      toggleLoadMoreButton(true)
-    }
   },
   [ROUTES.POST]: ({ params }) => {
     const slug = params.get('s')

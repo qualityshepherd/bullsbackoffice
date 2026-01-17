@@ -33,7 +33,7 @@ export function renderPosts (postsToRender, limit) {
 }
 
 export function renderSinglePost (slug) {
-  const post = state.posts.find(p => p.meta.slug === slug)
+  const post = getPosts().find(p => p.meta.slug === slug)
   elements.main.innerHTML = post ? singlePostTemplate(post) : notFoundTemplate()
 }
 
@@ -46,10 +46,10 @@ export function renderArchive (posts) {
 }
 
 export function renderFilteredPosts () {
-  const filtered = state.posts.filter(post =>
-    postMatchesSearch(post, state.searchTerm)
+  const filtered = getPosts().filter(post =>
+    postMatchesSearch(post, getSearchTerm())
   )
-  renderPosts(filtered, filtered.length) // no pagination
+  renderPosts(filtered, filtered.length)
 }
 
 export function renderNotFoundPage () {

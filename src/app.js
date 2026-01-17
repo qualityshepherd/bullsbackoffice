@@ -14,5 +14,5 @@ window.addEventListener('DOMContentLoaded', handleRouting)
 ;(async () => {
   const index = await readSiteIndex(config.pathToIndex)
   setPosts(index)
-  renderPosts(getPosts(), getDisplayedPosts())
+  handleRouting() // This will render the correct view based on URL
 })()
