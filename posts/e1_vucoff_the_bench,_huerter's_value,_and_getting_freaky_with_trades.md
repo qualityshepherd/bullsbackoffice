@@ -25,4 +25,6 @@ The crew debates whether Vucevic will accept a bench role, what Huerter's actual
 
 **Bottom line:** Should the Bulls get freaky with risky trades for picks, or build around tradeable contracts with cerebral role players?
 
+_**Bulls Back Office** is recorded live from the discord server. Quality hoops talk with regular Bulls fans._
+
 <audio controls src="https://ia601404.us.archive.org/3/items/e1_vucoff_the_bench_huerters_value_and_getting_freaky_with_trades/e1_vucoff_the_bench%2C_huerter%27s_value%2C_and_getting_freaky_with_trades.mp3"></audio>
