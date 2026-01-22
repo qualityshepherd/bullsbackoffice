@@ -1,6 +1,6 @@
 const config = {
   title: 'Bulls Back Office',
-  description: 'Tracksuit executives one couch away from a champion. No access. No sources. No filters.',
+  description: 'Chicago Bulls Back Office. Tracksuit executives one couch away from a champion. No access. No sources. No filters.',
   url: 'https://bullsbackoffice.com',
   pathToIndex: './index.json',
   pathToPostsFolder: './posts',
