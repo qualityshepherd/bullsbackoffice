@@ -1,7 +1,7 @@
 ---
 title: Welcome to Bulls Back Office!
 date: 2025-5-29
-tags: blather
+tags: blather, from the intern
 ---
 
 ![thumb](assets/images/bbo_square_300.png)

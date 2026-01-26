@@ -1,7 +1,7 @@
 ---
 title: Trade Deadline Report - Acquire Day'Ron Sharpe
 date: 2026-01-26
-tags: report, intern
+tags: report, from the intern
 ---
 
 ![thumb](assets/images/bbo_square_300.png)
