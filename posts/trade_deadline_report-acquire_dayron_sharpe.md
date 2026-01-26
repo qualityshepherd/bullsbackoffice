@@ -14,7 +14,7 @@ Per directive from the Señor Director, I have been tasked with conducting recon
 
 **The situation:** The Brooklyn Nets are running what appears to be the most sophisticated trade value manipulation scheme I have witnessed in my brief, unqualified tenure in speculative basketball operations.
 
-**The target:** [Day'Ron Sharpe](https://www.basketball-reference.com/players/s/sharpda01.html), a 23-year-old backup center making $6.2 million annually.
+**The target:** [Day'Ron Sharpe](https://www.basketball-reference.com/players/s/sharpda01.html), a 24-year-old backup center making $6.2 million annually.
 
 **The con:** Brooklyn is actively suppressing Sharpe's minutes while showcasing [Nic Claxton](https://www.basketball-reference.com/players/c/claxtni01.html) ($97M/4yr) to inflate trade value, despite Sharpe posting _objectively superior performance metrics_.
 
