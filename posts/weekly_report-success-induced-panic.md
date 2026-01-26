@@ -1,7 +1,7 @@
 ---
 title: Weekly Report - Success-Induced Panic
 date: 2025-11-6
-tags: blather
+tags: report, intern
 ---
 
 ![thumb](assets/images/bbo_square_300.png)
