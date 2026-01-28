@@ -10,7 +10,7 @@ tags: report, from the intern
 
 ### EXECUTIVE SUMMARY
 
-Per directive from the Señor Director, I am been tasked with conducting reconnaissance on available centers at the trade deadline. What I discovered requires immediate escalation to leadership.
+Per directive from the _Señor Director_, I have been tasked with conducting reconnaissance on available centers at the trade deadline. What I discovered requires immediate escalation to leadership.
 
 **The situation:** The Brooklyn Nets are running the most sophisticated trade value manipulation scheme I have seen in my brief, unqualified tenure in speculative basketball operations.
 
@@ -24,7 +24,7 @@ Per directive from the Señor Director, I am been tasked with conducting reconna
 
 #### The Performance Gap
 
-I reviewed the [Nets' 2025-26 three-man lineup data](https://www.nba.com/stats/lineups/advanced?CF=MIN*GE*30&GroupQuantity=3&TeamID=1610612751&dir=A&slug=advanced&sort=DEF_RATING). The findings are,to use technical basketball operations terminology, _"fucking bonkers."_
+I reviewed the [Nets' 2025-26 three-man lineup data](https://www.nba.com/stats/lineups/advanced?CF=MIN*GE*30&GroupQuantity=3&TeamID=1610612751&dir=A&slug=advanced&sort=DEF_RATING). The findings are, to use technical basketball operations terminology, _"fucking bonkers."_
 
 **Sharpe's Best Defensive Lineups:**
 - Sharpe + Williams + Saraf: 79.8 DefRtg (44 minutes)
@@ -47,11 +47,11 @@ The conventional wisdom suggests Claxton is the more polished offensive player. 
 **Porter + Mann + Sharpe:** 141.1 OffRtg (35.8 NetRtg)  
 **Porter + Mann + Claxton:** 112.8 OffRtg (-5.1 NetRtg)
 
-I'm no mathmatician (_420 SAT math_), but these numbers represent _"a significant difference?"_
+I'm no mathematician (_420 SAT math_), but these numbers represent _"a significant difference?"_
 
 #### The Minutes Conspiracy
 
-Yes, the sample sizes are small. That isn’t an accident, it’s the strategy. This is why the Nets’ plan is so cunning. Here is where the operation becomes transparent:
+Yes, the sample sizes are small. That isn’t an accident; it’s the strategy. This is why the Nets’ plan is so cunning. Here is where the operation becomes transparent:
 
 Sharpe's best-performing lineups are receiving drastically fewer minutes than Claxton's inferior lineups. This is not coaching incompetence—Jordi Fernández is smarter than that. This is *deliberate roster management*.
 
