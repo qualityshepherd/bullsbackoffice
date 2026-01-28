@@ -7,7 +7,7 @@ tags: luke, defense, rotations, billy-be-crazy
 
 ![thumb](assets/images/bbo_square_300.png)
 
-_Luke Kurtzweil - `@luke_kurtz1`_
+_by Luke Kurtzweil - `@luke_kurtz1`_
 
 ### The Problem
 
