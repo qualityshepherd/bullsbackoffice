@@ -10,13 +10,13 @@ tags: report, from the intern
 
 ### EXECUTIVE SUMMARY
 
-Per directive from the Señor Director, I have been tasked with conducting reconnaissance on available centers at the trade deadline. What I discovered requires immediate escalation to leadership.
+Per directive from the Señor Director, I am been tasked with conducting reconnaissance on available centers at the trade deadline. What I discovered requires immediate escalation to leadership.
 
-**The situation:** The Brooklyn Nets are running what appears to be the most sophisticated trade value manipulation scheme I have witnessed in my brief, unqualified tenure in speculative basketball operations.
+**The situation:** The Brooklyn Nets are running the most sophisticated trade value manipulation scheme I have seen in my brief, unqualified tenure in speculative basketball operations.
 
 **The target:** [Day'Ron Sharpe](https://www.basketball-reference.com/players/s/sharpda01.html), a 24-year-old backup center making $6.2 million annually.
 
-**The con:** Brooklyn is actively suppressing Sharpe's minutes while showcasing [Nic Claxton](https://www.basketball-reference.com/players/c/claxtni01.html) ($97M/4yr) to inflate trade value, despite Sharpe posting _objectively superior performance metrics_.
+**The con:** Brooklyn is suppressing Sharpe's minutes while showcasing [Nic Claxton](https://www.basketball-reference.com/players/c/claxtni01.html) ($97M/4yr) to inflate trade value, despite Sharpe posting _superior performance metrics_.
 
 **Bottom line:** The Nets are soft-tanking, while selling fool's gold (Claxton) and hiding actual gold (Sharpe).
 
@@ -24,7 +24,7 @@ Per directive from the Señor Director, I have been tasked with conducting recon
 
 #### The Performance Gap
 
-I have reviewed the [Nets' 2025-26 three-man lineup data](https://www.nba.com/stats/lineups/advanced?CF=MIN*GE*30&GroupQuantity=3&TeamID=1610612751&dir=A&slug=advanced&sort=DEF_RATING). The findings are, to use technical basketball operations terminology, _"fucking bonkers."_
+I reviewed the [Nets' 2025-26 three-man lineup data](https://www.nba.com/stats/lineups/advanced?CF=MIN*GE*30&GroupQuantity=3&TeamID=1610612751&dir=A&slug=advanced&sort=DEF_RATING). The findings are,to use technical basketball operations terminology, _"fucking bonkers."_
 
 **Sharpe's Best Defensive Lineups:**
 - Sharpe + Williams + Saraf: 79.8 DefRtg (44 minutes)
@@ -47,7 +47,7 @@ The conventional wisdom suggests Claxton is the more polished offensive player. 
 **Porter + Mann + Sharpe:** 141.1 OffRtg (35.8 NetRtg)  
 **Porter + Mann + Claxton:** 112.8 OffRtg (-5.1 NetRtg)
 
-Now, I'm no mathmatician (SAT math 420), but these numbers represent what experts might call _"a significant difference?"_
+I'm no mathmatician (_420 SAT math_), but these numbers represent _"a significant difference?"_
 
 #### The Minutes Conspiracy
 
@@ -64,7 +64,7 @@ Sharpe's best-performing lineups are receiving drastically fewer minutes than Cl
 5. Immediately hand starting job to Sharpe, who's already better
 6. Continue tanking with improved defense and $23M in cap relief
 
-This is not just smart, it's *diabolical*. Whether intentional or simply convenient, the result is the same: Claxton’s value is being amplified, and Sharpe’s is being contained.
+This is not just smart, it's *diabolical*. Intentional or convenient, Claxton’s value is being amplified, and Sharpe’s is being contained.
 
 ### RECOMMENDATION
 
@@ -72,7 +72,7 @@ This is not just smart, it's *diabolical*. Whether intentional or simply conveni
 
 #### The Fit
 
-Sharpe checks every box we discussed in [Episode 3 of the Bulls Back Office podcast](https://bullsbackoffice.com/#post?s=e3_centers_of_attention):
+Sharpe checks every box discussed in [Episode 3 of the Bulls Back Office podcast](https://bullsbackoffice.com/#post?s=e3_centers_of_attention):
 - ✓ Defensive presence at the rim
 - ✓ Perfect timeline match with the core  
 - ✓ Cheap enough to maintain flexibility
@@ -83,7 +83,7 @@ Sharpe checks every box we discussed in [Episode 3 of the Bulls Back Office podc
 
 ### CONCLUSION
 
-Brooklyn is running a masterclass in trade value manipulation. They are hiding their best center to preserve his low price while shopping their overpaid "starter" to teams who don't watch film.
+Brooklyn is running a masterclass in trade value manipulation. They're hiding their best center on the bench; preserving his low price. And shopping their overpaid "starter" to teams who don't watch film.
 
 The Intern  
 Bulls Back Office Research Division  
