@@ -5,6 +5,7 @@ const config = {
   pathToIndex: './index.json',
   pathToPostsFolder: './posts',
   pathToRssFolder: './assets/rss',
+  explicit: 'yes',
   maxPosts: 10
 }
 
