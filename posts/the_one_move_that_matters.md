@@ -10,7 +10,7 @@ _by brine - `brine@bullsbackoffice.com`_
 
 **Bulls are 23-25. The Heat just beat us last night. The Pacers beat us the night before.**
 
-FUUUUUUUUUU! Smart teams continue to exploit the same weakness: defense. But let me blow a kiss to our "blow it up" friends: **the offense is elite.**
+FUUUUUUUUUU! Smart teams continue to exploit the same weakness: our shitty defense. But let me blow a kiss to our "blow it up" friends: **the offense is elite.**
 
 ### TRUST THE SYSTEM
 
