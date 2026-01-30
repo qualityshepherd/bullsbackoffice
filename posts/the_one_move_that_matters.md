@@ -103,7 +103,7 @@ Then, in July, maybe:
 - Run it back with Sharpe as your starter?
 - Pivot entirely if nothing changed?
 
-**You'll know.** Because you collected the data instead of guessing.
+NOW we'll know because we've collected the data instead of guessing.
 
 ### THE BOTTOM LINE
 
