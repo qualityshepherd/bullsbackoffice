@@ -36,7 +36,7 @@ When the ball moves, guys step up, shots fall - this offense can be a **legitima
 
 So why are we 5-5 in that span? **Our defense: 117.7 DefRtg (22nd)**
 
-With Giddey. Without Giddey. With Tre. Without Tre. **Every. Single. Lineup.** 22nd. Why you gotta shit on Taj Gibson's number like this?  
+With Giddey. Without Giddey. With Tre. Without Tre. **Every. Single. Lineup.** 22nd. Why we gotta shit on Taj Gibson's number like this?  
 
 Three days ago against the Lakers, we put up **119.2 OffRtg** - elite efficiency - and lost by 11. Why? Because we gave up **130.3 DefRtg**. :facepalm: The offense works. The system proves it. The defense doesn't. And we know exactly why...
 
