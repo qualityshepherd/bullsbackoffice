@@ -109,4 +109,4 @@ Then, in July, maybe:
 
 The offense is proving we don't need stars to be elite. I want to see if a physical center can be the difference between the 10th seed and 6th seed.
 
-> brine is a Señor Director at Bulls Back Office; Vuc fan and drop coverage survivor.
+> _brine is a Señor Director at Bulls Back Office; Vuc fan and drop coverage survivor._
