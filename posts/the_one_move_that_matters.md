@@ -6,6 +6,8 @@ tags: brine, trade deadline, apologies to mrs christie
 
 ![thumb](assets/images/bbo_square_300.png)
 
+_by brine - `brine@bullsbackoffice.com`_
+
 **Bulls are 23-25. The Heat just beat us last night. The Pacers beat us the night before.**
 
 FUUUUUUUUUU! Smart teams continue to exploit the same weakness: defense. But let me blow a kiss to our "blow it up" friends: **the offense is elite.**
