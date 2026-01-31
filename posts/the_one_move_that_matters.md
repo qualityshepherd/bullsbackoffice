@@ -57,7 +57,7 @@ The other numbers tell the same story:
 
 This isn't finesse basketball. It's **soft basketball.** This recipe either misses the playoffs or gets swept. 
 
-### THE TRADE DEADLINE FIX
+### THE DEADLINE FIX
 
 I need one thing from AKME: **Get us a fucking defensive center and let's test this theory.** We don't need a star. Just a guy who can give us rim protection, set hard screens, and help the hunted. The offense doesn't need individual brilliance - it needs a system that works. We have that system. When Giddey returns healthy, you add an all-star playmaker (39.9 AST%, 36.2% from 3) to an offense that can be top-5 without him.  
 
@@ -67,25 +67,25 @@ Give this roster 25-30 games to see if rim protection unlocks what we already kn
 
 ### THE TARGETS
 
-**Tier 1: Day'Ron Sharpe (Brooklyn)**
+#### Tier 1: Day'Ron Sharpe (Brooklyn)
 
-**Cost:** Julian Phillips + 2nd rounder? 
+**Cost:** Julian Phillips + 2nd rounder?<br>
 **Stats:** 1.33 D-DPM, 13.3 OREB%, 4.9 AST%, 265 lbs of _legit_ physicality
 
 Sharpe is the best answer. He's statistically better than Nic Claxton ([read the intern's report](https://bullsbackoffice.com/#post?s=intern_sharpe_report)), he's available because Brooklyn's tanking, and he costs almost nothing (unless the Intern is RIGHT!). Phillips isn't cracking our rotation. A 2nd rounder is a 2nd rounder.
 
 What you get: A defensive anchor who sets real screens, crashes boards, and erases mistakes. Not a backup masquerading as a starter - a legitimate rotation big who solves the exact problem smart teams exploit.
 
-**Tier 2: Yves Missi (New Orleans)**
+#### Tier 2: Yves Missi (New Orleans)
 
-**Cost:** ¯\_(ツ)_/¯ lotta rumored interest... 
+**Cost:** ¯\_(ツ)_/¯ lotta rumored interest...<br>
 **Stats:** 21 years old, 4.1 BLK%, athletic freak, currently raw
 
 The high-upside gamble. Missi shows _dazzling_ flashes but is still a bit of a spaz. But hey, with a 4.1% Block Rate, you're my kinda spaz. He doesn't provide the cleanest post-all-star-break data points, but any port in a storm. 
 
-**Bonus: Keon Ellis (Sacramento)**
+#### Bonus: Keon Ellis (Sacramento)
 
-**Cost:** ¯\_(ツ)_/¯ if the CLE rumors are true  
+**Cost:** ¯\_(ツ)_/¯ if the CLE rumors are true<br>
 **Stats:** 39.4% from 3, 0.88 D-DPM, 71.5% 3PAr
 
 Not a center, but addresses the physicality problem from a different angle. Elite spot-up shooter who actually plays defense. Buried in Sacramento behind better guards (or insulted Christie's wife?) Would be our best wing defender immediately.
