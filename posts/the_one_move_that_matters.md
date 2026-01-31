@@ -88,7 +88,7 @@ The high-upside gamble. Missi shows _dazzling_ flashes but is still a bit of a s
 **Cost:** ¯\_(ツ)_/¯ if the CLE rumors are true<br>
 **Stats:** 39.4% from 3, 0.88 D-DPM, 71.5% 3PAr
 
-Not a center, but addresses the physicality problem from a different angle. Elite spot-up shooter who actually plays defense. Buried in Sacramento behind better guards (or insulted Christie's wife?) Would be our best wing defender immediately.
+Not a center, but addresses the physicality problem from a different angle. Elite spot-up shooter who actually plays defense. Buried in Sacramento behind better guards (_or insulted Doug Christie's wife?_) Would be our best wing defender immediately.
 
 ### WHY NOW
 
