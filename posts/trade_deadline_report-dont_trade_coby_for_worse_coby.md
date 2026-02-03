@@ -1,7 +1,7 @@
 ---
 title: Trade Deadline Report - Don't Trade Coby for Worse Coby
 date: 2026-02-03
-tags: report, from the intern, bulls fans are dummies
+tags: report, from the intern, dummies
 ---
 
 ![thumb](assets/images/bbo_square_300.png)
