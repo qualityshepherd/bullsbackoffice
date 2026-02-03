@@ -10,7 +10,7 @@ tags: report, from the intern, dummies
 
 ### EXECUTIVE SUMMARY
 
-Per directive from the _Señor Director_, I have been tasked with scouting [Benedict Mathurin](https://www.basketball-reference.com/players/m/mathube01.html) as a [Coby White](https://www.basketball-reference.com/players/w/whiteco01.html) replacement.
+Per directive from the _Señor Director_, I have been tasked with scouting [Bennedict Mathurin](https://www.basketball-reference.com/players/m/mathube01.html) as a [Coby White](https://www.basketball-reference.com/players/w/whiteco01.html) replacement.
 
 **The finding:** Mathurin isn't _bad_, he just doesn't make us better.
 
@@ -22,7 +22,7 @@ Per directive from the _Señor Director_, I have been tasked with scouting [Bene
 ### THE MATHURIN REPORT
 
 **Player Profile:**
-- Age 24, 6'4" SG/SF
+- Age 23, 6'5" SG/SF
 - 237 career games (IND)
 - Contract projection: $22-25M/yr
 
