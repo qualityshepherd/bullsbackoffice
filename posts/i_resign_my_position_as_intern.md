@@ -1,7 +1,7 @@
 ---
 title: I Resign My Position as Intern
 date: 2026-02-04
-tags: report, from the intern, clowns all the way down, pass the copium
+tags: from the intern, clowns all the way down, pass the copium
 ---
 
 ![thumb](assets/images/bbo_square_300.png)
