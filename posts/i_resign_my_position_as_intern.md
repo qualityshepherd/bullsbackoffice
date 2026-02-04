@@ -8,7 +8,7 @@ tags: report, from the intern, dummies, release the copium
 **BULLS FRONT OFFICE MEMO:**  
 *From the Desk of the Intern*
 
-You just traded a 26-year-old guard putting up 20.4 PPG on 60% TS for [Collin Sexton](https://www.basketball-reference.com/players/s/sextoco01.html) (worse at everything), [a 23-year-old project shooting 28% from three](https://www.basketball-reference.com/players/d/diengou01.html), and three second-rounders that won't crack the rotation.
+You just traded a 26-year-old guard putting up 20.4 PPG on 60% TS for [Collin Sexton](https://www.basketball-reference.com/players/s/sextoco01.html) (worse at everything), [a 23-year-old project](https://www.basketball-reference.com/players/d/diengou01.html), and three second-rounders that won't crack the rotation.
 
 [Coby White](https://www.basketball-reference.com/players/w/whiteco01.html) - the guy this fanbase FINALLY stopped shitting on because he proved everyone wrong - is gone for NOTHING.
 
