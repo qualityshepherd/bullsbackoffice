@@ -20,7 +20,7 @@ Coby deserved better. His fans deserved better.
 
 ![center](assets/images/vuc_finger.png)
 
-Fuck this trade. Fuck the process. Fuck pandering to casual fans who never believed in Coby. 
+Fuck this trade. Fuck the process. Fuck the Front Office. 
 
 **I'm done writing reports for a front office that can't comprehend them.**
 
