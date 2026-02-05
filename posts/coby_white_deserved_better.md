@@ -49,7 +49,7 @@ Even better. The efficiency jump was the real story. 60% True Shooting is the "A
 This is what he was supposed to be all along. A high-volume scorer who can playmake when needed. Exactly what the Bulls drafted him to do. In theory. In practice, they were about to fuck it all up.
 
 
-## The Slump
+### The Slump
 
 Coby suffered a calf strain during summer workouts and missed the entire preseason. Then the first 11 games of the regular season. When he finally returned in mid-November, he was on a minutes restriction. Playing cautious. Never getting into rhythm.
 
