@@ -1,7 +1,7 @@
 ---
 title: Coby White Deserved Better 
 date: 2026-02-05
-tags: coby white, eulogy, dummies
+tags: coby white, eulogy, huffing compium, dummies
 ---
 
 ![thumb](assets/images/bbo_square_300.png)
