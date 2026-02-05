@@ -8,8 +8,6 @@ tags: coby white, eulogy, dummies
 
 _by brine - `brine@bullsbackoffice.com`_
 
-------
-
 This one feels different.
 
 Not because the trade was bad; it was. Collin Sexton, Ousmane Dieng, and three second-rounders for a 26-year-old guard averaging 20.4 points on 60% true shooting is objectively terrible value.
