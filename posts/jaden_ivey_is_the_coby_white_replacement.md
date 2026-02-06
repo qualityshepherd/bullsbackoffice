@@ -1,7 +1,7 @@
 ---
 title: Jaden Ivey Is the Coby White Replacement  
 date: 2026-02-06  
-tags: ivey, coby, still fucking mad
+tags: brine, ivey, coby, still fucking mad
 ---
 
 ![thumb](assets/images/bbo_square_300.png)
