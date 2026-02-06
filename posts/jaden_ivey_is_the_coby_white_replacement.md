@@ -20,13 +20,13 @@ Watch Ivey play for five minutes and it's obvious: the athleticism is different.
 **Jaden Ivey 2024-25 (Detroit, 30 games before injury):**
 - 17.6 PPG on 56.77% TS
 - 40.9% from three
-- 28% ONBALL usage (86th percentile)
+- 28% ONBALL usage
 - **26.49% usage**
 
 **Jaden Ivey 2025-26 (Detroit, 33 games post-injury):**
 - 8.2 PPG on 56.96% TS
 - 37.2% from three  
-- 17% ONBALL usage (5th percentile)
+- 17% ONBALL usage
 - **20.27% usage**
 
 That ONBALL drop is the smoking gun. He went from 86th percentile in on-ball creation to 5th percentile. That's wild. Detroit turned him into a spot-up shooter. His assisted 3s spiked from 74.6% to 88.1%. His assisted 2s jumped from 42.5% to 57.9%. His rim attempts cratered from 4.3 to 1.6 per game. His free throw attempts dropped from 3.9 to 1.1.
@@ -41,21 +41,21 @@ Here's what AK is betting on:
 - 20.4 PPG on 60% TS when healthy
 - Recurring calf issues all season
 - Unrestricted Free agent after 2025-26
-- Market value: $20M+ annually
+- Market value: ~$20M+ annually
 
 **Jaden Ivey (24 years old):**
 - _Restricted_ free agent 
 - $12M qualifying offer keeps him cheap
-- 6'4" with 6'9" wingspan = solid defensive tools
-- If he gets healthy and regains confidence, you've got 17+ PPG on good efficiency with better defensive upside than Coby
+- 6'4" with 6'9" wingspan 
+- If he gets healthy, you've got 17+ PPG on good efficiency with better defensive upside than Coby
 
 **The bet makes sense:**
 - Younger
 - Cheaper  
 - More defensive upside
-- You control the contract
+- Contract control
 
-The front office did the math. Will it add up? ¯\\\_(ツ)_/¯ 
+**The front office did the math. Will it add up? ¯\\\_(ツ)_/¯**
 
 ### Why I Hate Admitting This
 
