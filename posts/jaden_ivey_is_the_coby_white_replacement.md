@@ -8,7 +8,7 @@ tags: ivey, coby, still fucking mad
 
 _by brine - `brine@nbabackoffice.com`_
 
-I don't want to write this. And not because I half expected AK to trade Bulls Back Office for a 2nd round pick. Nor because this _should_ be the Intern writing this. It's because when I remove my feelings for the Coby trade, it's clear the FO sees [Jaden Ivey](https://www.basketball-reference.com/players/i/iveyja01.html) as the Coby replacement. _And they might be right._ 🥹
+I don't want to write this. And not because I half expected AK to trade Bulls Back Office for a 2nd round pick. Nor because [this should be the Intern writing this](#post?s=i_resign_my_position_as_intern). It's because when I remove my feelings for the Coby trade, it's clear the FO sees [Jaden Ivey](https://www.basketball-reference.com/players/i/iveyja01.html) as the Coby replacement. _And they might be right._ 🥹
 
 
 ### The Eye Test
