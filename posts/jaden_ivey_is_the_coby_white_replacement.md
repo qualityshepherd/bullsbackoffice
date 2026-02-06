@@ -29,7 +29,7 @@ Watch Ivey play for five minutes and it's obvious: the athleticism is different.
 - 17% ONBALL usage
 - **20.27% usage**
 
-That ONBALL drop is the smoking gun. He went from 86th percentile in on-ball creation to 5th percentile. That's wild. Detroit turned him into a spot-up shooter. His assisted 3s spiked from 74.6% to 88.1%. His assisted 2s jumped from 42.5% to 57.9%. His rim attempts cratered from 4.3 to 1.6 per game. His free throw attempts dropped from 3.9 to 1.1.
+That ONBALL drop is the smoking gun. He went from 86th percentile in on-ball creation to 5th percentile. Detroit turned him into a spot-up shooter. His assisted 3s spiked from 74.6% to 88.1%. His assisted 2s jumped from 42.5% to 57.9%. His rim attempts cratered from 4.3 to 1.6 per game. His free throw attempts dropped from 3.9 to 1.1.
 
 But here's the tell: His 2P% improved from 49.03% to 53.27%. His TS% stayed at 56.8%. When he did attack the rim, he was MORE efficient than his breakout year 🤔 The tools are there. The opportunity wasn't. AK is betting he can get back to that 86th percentile.
 
