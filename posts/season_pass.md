@@ -42,3 +42,5 @@ The evaluation phase is over. Now it's developmental minutes for Buzelis, occasi
 Until then Bulls fans get a G-League showcase with no defensive anchor, no competitive timeline, and no plan beyond "young guys might get better."
 
 **And they expect _you_ to pay full price for it.**
+
+> brine is a Señor Director at [Bulls Back Office](https://bullsbackoffice.com/#post?s=season_pass); rest-of-the-season passer and a 14% skeptic.
