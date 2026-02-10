@@ -1,7 +1,7 @@
 ---
 title: The Tank is In  
 date: 2026-02-10  
-tags: brine, tanking, season pass
+tags: brine, tank, season pass
 description: Trading Coby and Ayo feels like a white flag disguised as a strategic pivot.
 ---
 
