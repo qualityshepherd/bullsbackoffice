@@ -9,9 +9,9 @@ description: Trading Coby and Ayo feels like a white flag disguised as a strateg
 
 _by brine - `brine@nbabackoffice.com`_
 
-Trading Ayo Dosunmu and Coby White mid-season for second-rounders and project players finally reveals AKME's evaluation: Coby and Ayo weren't good enough to lift the Bulls out of mediocrity. 
+Trading [Ayo Dosunmu](https://www.basketball-reference.com/players/d/dosunay01.html) and [Coby White](https://www.basketball-reference.com/players/w/whiteco01.html) mid-season for second-rounders and project players finally reveals AKME's evaluation: Coby and Ayo weren't good enough to lift the Bulls out of mediocrity. 
 
-In prior years, both were sources of hope... but the bet is that Josh Giddey and Matas Buzelis can carry the hope flag now.
+In prior years, both were sources of hope... but the bet is that [Josh Giddey](https://www.basketball-reference.com/players/g/giddejo01.html) and [Matas Buzelis](https://www.basketball-reference.com/players/b/buzelma01.html) can carry the hope flag now.
 
 ### The Real Timeline
 
@@ -29,7 +29,7 @@ The calculation seems to be: Bulls fans won't pay to watch Ayo and Coby grind ou
 
 ### The Yabusele Tell
 
-AKME made Guerschon Yabusele waive his $5.8 million player option for next year just to complete the trade. They wouldn't take on even modest salary for a 30-year-old rotation player who can actually contribute.
+AKME made [Guerschon Yabusele](https://www.basketball-reference.com/players/y/yabusgu01.html) waive his $5.8 million player option for next year just to complete the trade. They wouldn't take on even modest salary for a 30-year-old rotation player who can actually contribute.
 
 Maximum flexibility. For what? To hoard cap space while stockpiling ~~14~~ 13 second-rounders and hoping lightning strikes?
 
