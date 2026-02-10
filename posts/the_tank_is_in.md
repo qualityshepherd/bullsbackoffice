@@ -9,7 +9,9 @@ description: Trading Coby and Ayo feels like a white flag disguised as a strateg
 
 _by brine - `brine@nbabackoffice.com`_
 
-Trading Ayo Dosunmu and Coby White mid-season for second-rounders and project players finally reveals AKME's evaluation: Coby and Ayo weren't good enough to lift the Bulls out of mediocrity. In prior years, both were sources of hope... but the bet is that Josh Giddey and Matas Buzelis can carry the hope flag now.
+Trading Ayo Dosunmu and Coby White mid-season for second-rounders and project players finally reveals AKME's evaluation: Coby and Ayo weren't good enough to lift the Bulls out of mediocrity. 
+
+In prior years, both were sources of hope... but the bet is that Josh Giddey and Matas Buzelis can carry the hope flag now.
 
 ### The Real Timeline
 
@@ -39,4 +41,4 @@ The evaluation phase is over. Now it's developmental minutes for Buzelis, occasi
 
 Until then Bulls fans get a G-League showcase with no defensive anchor, no competitive timeline, and no plan beyond "young guys might get better."
 
-And they expect _you_ to pay full price for it.
+**And they expect _you_ to pay full price for it.**
