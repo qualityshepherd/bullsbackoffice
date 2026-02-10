@@ -43,4 +43,4 @@ Until then Bulls fans get a G-League showcase with no defensive anchor, no compe
 
 **And they expect _you_ to pay full price for it.**
 
-> brine is a Señor Director at [Bulls Back Office](https://bullsbackoffice.com/#post?s=season_pass); rest-of-the-season passer and a 14% skeptic.
+> _brine is a Señor Director at [Bulls Back Office](https://bullsbackoffice.com/#post?s=season_pass); rest-of-the-season passer and a 14% skeptic._
